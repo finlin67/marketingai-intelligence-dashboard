@@ -1,0 +1,5 @@
+{
+  "name": "MarketingAI Neural Dashboard",
+  "description": "A high-fidelity dashboard interface featuring a standalone, animated neural network visualization tile using React, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": []
+}
